@@ -59,3 +59,10 @@ Built by [Paluk Gupta](https://github.com/paluuuk).
 
 This is a documentation-only showcase. Production source code, proprietary prompts, infrastructure configuration, credentials, and private customer or seller records remain private. There is no runnable application or open-source implementation in this repository.
 
+## Related engineering projects
+
+- [Beehive mobile product](https://github.com/paluuuk/beehive)
+- [Customer segmentation](https://github.com/paluuuk/Customer-segmentation)
+
+[View all selected engineering work](https://github.com/paluuuk)
+
